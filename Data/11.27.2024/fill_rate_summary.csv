@@ -1,0 +1,106 @@
+filename,sheet,column,fill_rate
+PatientCardiology.xlsx,Cardiology,MRN,100.0
+PatientCardiology.xlsx,Cardiology,Patient Name,100.0
+PatientCardiology.xlsx,Cardiology,Imaging Procedure,100.0
+PatientCardiology.xlsx,Cardiology,Order ID,41.1253937175449
+PatientCardiology.xlsx,Cardiology,Order Date,100.0
+PatientCardiology.xlsx,Cardiology,Results,47.40784881246275
+PatientECG.xlsx,ECG,MRN,100.0
+PatientECG.xlsx,ECG,Patient Name,100.0
+PatientECG.xlsx,ECG,Imaging Procedure,99.99234449760766
+PatientECG.xlsx,ECG,Encounter DOS,100.0
+PatientECG.xlsx,ECG,Order ID,99.93875598086125
+PatientECG.xlsx,ECG,Diagnosis Line 1,38.365550239234445
+PatientECG.xlsx,ECG,Diagnosis Line 2,38.170334928229664
+PatientECG.xlsx,ECG,Diagnosis Line 3,28.742583732057415
+PatientEncounter.xlsx,Encounter,Encounter,60.68066113397029
+PatientEncounter.xlsx,Encounter,Encounter ID,60.68066113397029
+PatientEncounter.xlsx,Encounter,Encounter Type,100.0
+PatientEncounter.xlsx,Encounter,Encounter DOS,100.0
+PatientEncounter.xlsx,Encounter,Facility ID,0.0
+PatientEncounter.xlsx,Encounter,Attending Physician,92.0496547876421
+PatientEncounter.xlsx,Encounter,Facility Name,64.75346955854661
+PatientEncounter.xlsx,Encounter,DRG,0.0
+PatientEncounter.xlsx,Encounter,MRN,100.0
+PatientEncounter.xlsx,Encounter,Patient Name,100.0
+PatientEncounter.xlsx,Encounter,Encounter Reason,76.4906897273171
+PatientInsurance.xlsx,Insurance,MRN,100.0
+PatientInsurance.xlsx,Insurance,Patient Name,100.0
+PatientInsurance.xlsx,Insurance,Encounter DOS,0.0
+PatientInsurance.xlsx,Insurance,Encounter Type,0.0
+PatientInsurance.xlsx,Insurance,Patient ID,0.0
+PatientInsurance.xlsx,Insurance,Primary Insurance,91.58512720156556
+PatientInsurance.xlsx,Insurance,Primary Insurance Address,91.24266144814091
+PatientInsurance.xlsx,Insurance,Primary Insurance ID,91.58512720156556
+PatientInsurance.xlsx,Insurance,Primary Insurance Effective Date,90.70450097847358
+PatientInsurance.xlsx,Insurance,Secondary Insurance,40.65557729941291
+PatientInsurance.xlsx,Insurance,Secondary Insurance Address,33.6105675146771
+PatientInsurance.xlsx,Insurance,Secondary Insurance ID,40.60665362035225
+PatientInsurance.xlsx,Insurance,Secondary Insurance Effective Date,40.55772994129158
+PatientLabResult.xlsx,LabResult,MRN,100.0
+PatientLabResult.xlsx,LabResult,Patient Name,100.0
+PatientLabResult.xlsx,LabResult,Encounter DOS,100.0
+PatientLabResult.xlsx,LabResult,Encounter Type,0.0
+PatientLabResult.xlsx,LabResult,Lab Result,55.94582033065534
+PatientLabResult.xlsx,LabResult,Data Source - Observation or Lab,100.0
+PatientLabResult.xlsx,LabResult,Lab Order id,99.43894827700683
+PatientLabResult.xlsx,LabResult,Result ID,99.43894827700683
+PatientLabResult.xlsx,LabResult,Encounter ID,99.43894827700683
+PatientLabResult.xlsx,LabResult,Date Collected,100.0
+PatientLabResult.xlsx,LabResult,Date available,100.0
+PatientLabResult.xlsx,LabResult,result status,55.94582033065534
+PatientLabResult.xlsx,LabResult,Normal range,69.80114202244206
+PatientLabResult.xlsx,LabResult,Units,79.64610583626586
+PatientLabResult.xlsx,LabResult,Result date,100.0
+PatientLabResult.xlsx,LabResult,LOINC Code,0.0
+PatientLabResult.xlsx,LabResult,Mapped name,0.0
+PatientLabResult.xlsx,LabResult,Result value,79.64610583626586
+PatientLabResult.xlsx,LabResult,"Specimen type-like blood, urnine",25.514574065467098
+PatientLabResult.xlsx,LabResult,Order date,100.0
+PatientProcedure.xlsx,Procedure,MRN,100.0
+PatientProcedure.xlsx,Procedure,Procedure,1.5723154917159545
+PatientProcedure.xlsx,Procedure,Encounter Type,99.99632636567355
+PatientProcedure.xlsx,Procedure,Encounter DOS,100.0
+PatientProcedure.xlsx,Procedure,Patient Name,100.0
+PatientProcedure.xlsx,Procedure,Facility ID,0.0
+PatientProcedure.xlsx,Procedure,Performing Provider,1.5723154917159545
+PatientProcedure.xlsx,Procedure,Mapped Proc Code,1.1737261672973072
+PatientProcedure.xlsx,Procedure,Ordering Provider id,0.0
+PatientProcedure.xlsx,Procedure,local name- SNOMED descp,0.0
+PatientRadiology.xlsx,Radiology,MRN,100.0
+PatientRadiology.xlsx,Radiology,Patient Name,100.0
+PatientRadiology.xlsx,Radiology,Imaging Procedure,100.0
+PatientRadiology.xlsx,Radiology,Encounter DOS,100.0
+PatientRadiology.xlsx,Radiology,Order ID,93.37241845203629
+PatientRadiology.xlsx,Radiology,Results,65.52306504535804
+PatientRadiology.xlsx,Radiology,Department,76.78778228141286
+PatientRadiology.xlsx,Radiology,Modality,76.78778228141286
+PatientRadiology.xlsx,Radiology,Technologist,75.55732484076432
+PatientRx.xlsx,Rx,MRN,100.0
+PatientRx.xlsx,Rx,Patient Name,100.0
+PatientRx.xlsx,Rx,Encounter DOS,100.0
+PatientRx.xlsx,Rx,Encounter Type,100.0
+PatientRx.xlsx,Rx,Rx,100.0
+PatientRx.xlsx,Rx,"Data source- pat encounter, med order",100.0
+PatientRx.xlsx,Rx,Local dose unit,94.220741599073
+PatientRx.xlsx,Rx,local category code,0.0
+PatientRx.xlsx,Rx,Provider ID,89.80301274623407
+PatientRx.xlsx,Rx,NDC,0.0
+PatientRx.xlsx,Rx,Generic Name,0.0
+PatientRx.xlsx,Rx,Med code,0.0
+PatientRx.xlsx,Rx,Drug strength,0.0
+PatientRxOrder.xlsx,RxOrder,MRN,100.0
+PatientRxOrder.xlsx,RxOrder,Patient Name,100.0
+PatientRxOrder.xlsx,RxOrder,Encounter DOS,100.0
+PatientRxOrder.xlsx,RxOrder,Encounter Type,0.0
+PatientRxOrder.xlsx,RxOrder,Rx order,100.0
+PatientRxOrder.xlsx,RxOrder,Order or prescribed,94.12967289719626
+PatientRxOrder.xlsx,RxOrder,Provider id,82.28679906542055
+PatientRxOrder.xlsx,RxOrder,Issue date,100.0
+PatientRxOrder.xlsx,RxOrder,NOS Refill,94.20268691588785
+PatientRxOrder.xlsx,RxOrder,Fill Num,0.0
+PatientRxOrder.xlsx,RxOrder,Strength,0.0
+PatientRxOrder.xlsx,RxOrder,Unit,94.20268691588785
+PatientRxOrder.xlsx,RxOrder,NDC,0.0
+PatientRxOrder.xlsx,RxOrder,Name,100.0
+PatientRxOrder.xlsx,RxOrder,GPI- Generic Name,0.0
